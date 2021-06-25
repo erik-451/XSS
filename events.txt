@@ -1,3 +1,4 @@
+```bash
 onactivate
 onafterprint
 onafterscriptexecute
@@ -113,3 +114,4 @@ onwebkitanimationiteration
 onwebkitanimationstart
 onwebkittransitionend
 onwheel
+```
