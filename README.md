@@ -7,7 +7,7 @@ Like: Tags, events and payloads:
 - [WAF Bypass](https://github.com/erik-451/XSS/blob/main/payloads2.md)
 - [Tags](https://github.com/erik-451/XSS/blob/main/tags.md)
 - [Events](https://github.com/erik-451/XSS/blob/main/events.md)
-- 
+
 ![xss](https://user-images.githubusercontent.com/47476901/114941454-7eaa0080-9e43-11eb-8b27-2eedd92237cc.jpg)
 
 ### References:
