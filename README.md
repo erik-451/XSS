@@ -4,7 +4,7 @@ Here you can find some cheat sheets for Cross-site scripting.
 Like: Tags, events and payloads:
 
 - [All Payloads](https://github.com/erik-451/XSS/blob/main/payloads.md)
-- [WAF Bypass](https://github.com/erik-451/XSS/blob/main/payloads2.md)
+- [WAF Bypass](https://github.com/erik-451/XSS/blob/main/WAFBypass.md)
 - [Tags](https://github.com/erik-451/XSS/blob/main/tags.md)
 - [Events](https://github.com/erik-451/XSS/blob/main/events.md)
 
