@@ -1,4 +1,4 @@
-```
+```js
 "-prompt(8)-"
 '-prompt(8)-'
 ";a=prompt,a()//
